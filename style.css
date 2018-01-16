@@ -1,0 +1,36 @@
+#main {
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+}
+
+#sub-main {
+  background-color: #FAFAFA;
+  border: solid 1px;
+  border-color: grey;
+  border-radius: 5px;
+  margin: 50px;
+  padding: 20px;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: auto;
+}
+#img-div {
+  margin: -5px;
+  margin-top: 20px;
+  width: 100%;
+  border: 5px solid white;
+  background: white;
+}
+#img-caption {
+  margin: 10px;
+}
+
+#tribute-info {
+  margin-left: 50px;
+  margin-right: 50px;
+  text-align: left;
+}
